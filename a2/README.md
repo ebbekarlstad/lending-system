@@ -1,4 +1,3 @@
-# A2
 ## User Manual
 Our Menu is fairly straight forward, the only slightly counterintuitive feature is where to delete, this is accessed through the "Edit" menus and will give you a chance of hitting 4 for delete once reached. In addition we use member IDs to access information about said member, in order to test this use ID "123456".
 
