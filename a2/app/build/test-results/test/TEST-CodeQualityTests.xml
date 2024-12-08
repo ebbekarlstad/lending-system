@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-21T21:49:23" hostname="LENOVO-7PRO" time="0.064">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.064"/>
+  <system-out><![CDATA[0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/controller/App.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/controller/Controller.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/Contract.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/Item.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/LendingSystemEntry.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/Member.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/PersistenceSaving.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/model/Time.java
+0 CheckStyle Issues in C:/Users/skate/Courses/1DV607/a2/app/src/main/java/view/ConsoleView.java
+]]></system-out>
+  <system-err><![CDATA[Findbugs xml file not found: .\build\reports\spotbugs\spotbugs.xml
+Consider making code change to initiate regeneration of the xml (will try backup)
+Could not find or use the findbugx xml backup: .\build\reports\spotbugs\spotbugs_bak.xml
+Aborting findbugs xml to JUnit xml conversion...
+]]></system-err>
+</testsuite>

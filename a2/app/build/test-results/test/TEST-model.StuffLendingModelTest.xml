@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="model.StuffLendingModelTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-10-21T21:49:23" hostname="LENOVO-7PRO" time="0.017">
+  <properties/>
+  <testcase name="testIncrementDay_NoExpiredContracts()" classname="model.StuffLendingModelTest" time="0.006"/>
+  <testcase name="testCreateContract_BorrowerNotFound()" classname="model.StuffLendingModelTest" time="0.002"/>
+  <testcase name="testIncrementDay_ContractExpires()" classname="model.StuffLendingModelTest" time="0.001"/>
+  <testcase name="testModelInitialization()" classname="model.StuffLendingModelTest" time="0.001"/>
+  <testcase name="testCreateContract_ItemNotAvailable()" classname="model.StuffLendingModelTest" time="0.001"/>
+  <testcase name="testCreateContract_ItemNotFound()" classname="model.StuffLendingModelTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

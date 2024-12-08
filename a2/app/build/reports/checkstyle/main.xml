@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.38">
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\controller\App.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\controller\Controller.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\Contract.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\Item.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\LendingSystemEntry.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\Member.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\PersistenceSaving.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\model\Time.java">
+</file>
+<file name="C:\Users\skate\Courses\1DV607\a2\app\src\main\java\view\ConsoleView.java">
+</file>
+</checkstyle>
